@@ -487,11 +487,11 @@ The demonstration covers:
 
 ## 19. Documentation
 
-The complete project documentation will be available in the `Documentation` folder.
+The complete project documentation is available in the `Documentation` folder.
 
 **Documentation:**
-Documentation/Automated%20Network%20Request%20Management%20document.pdf
 
+[📘 View Project Documentation](Documentation/Automated%20Network%20Request%20Management%20document.pdf)
 
 ---
 
